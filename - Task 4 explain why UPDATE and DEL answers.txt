@@ -1,0 +1,3 @@
+- Task 4: explain why UPDATE and DELETE require WHERE. Demonstrate parameter binding.
+เพราะว่ามันต้องการ Argument เพื่อที่มันจะรับสามารถได้ว่าเราต้องการตั้งข้อกําหนดอย่างไร
+Parameter binding คือ กระบวนการนําค่าจากตัวแปรใน Code ไปแทนที่เครื่องหมายจองที่ (?)
